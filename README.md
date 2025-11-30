@@ -125,7 +125,7 @@ Query/Value projection에만 LoRA를 적용한 구조를 나타냅니다.
 - 이때 Q, V projection layer에만 ΔW = BA 형태의 LoRA를 적용해
   텍스트 조건 반영 경로만 선택적으로 보정합니다.
 
-## 📈Performance (CLIPScore)
+## Performance (CLIPScore)
 
 | Model           | CLIPScore        |
 | --------------- | ---------------- |
