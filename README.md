@@ -135,3 +135,7 @@ Query/Value projection에만 LoRA를 적용한 구조를 나타냅니다.
 **→ caption-aware fine-tuning이 identity 유지 및 스타일 반영에 효과적임을 확인**
 
 ---
+
+## Result
+
+![Baseline_vs_LoRA](results/baseline_vs_lora.png)
